@@ -39,6 +39,7 @@ death {
 	text-shadow: 1px 1px 1px orange;
 	border-radius: 100px;
 	background-color: black;
+	background-image: url("/you-died/fire.gif")
 	background-image: linear-gradient(
 		to top left,
 		rgb(0 0 0 / 0.2),
@@ -50,7 +51,7 @@ death {
 }
 
 .killsyou:hover {
-	background-color:gray;
+	background-color:rgb(0 0 0 / 0.5) 50%, transparent;
 }
 
 .killsyou:active {
