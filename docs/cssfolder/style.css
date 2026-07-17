@@ -4,7 +4,7 @@ body {
 
 pre {
   color: blue;
-  font-size = 3rem;
+  font-size = 30px;
 }
 
 h1 {
@@ -36,7 +36,7 @@ death {
 	font-size: 3rem;
 	text-aligh: center;
 	color: red;
-	text-shadow: 1px 1px 3px orange;
+	text-shadow: 1px 1px 1px orange;
 	border-radius: 100px;
 	background-color: black;
 	background-image: linear-gradient(
@@ -56,4 +56,9 @@ death {
 .killsyou:active {
 	box-shadow:
 		inset -2px -2px 3px rgb(255 255 255 / 0.6), inset 2px 2px 3px rgb(0 0 0 / 0.6);
+}
+
+fire {
+	background-image: url("fire.gif");
+	background-color: #FF0000;
 }
