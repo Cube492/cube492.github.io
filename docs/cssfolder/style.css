@@ -51,19 +51,9 @@ death {
 
 .killsyou:hover {
 	background-color: gray;
-	background-image: linear-gradient(
-		to top left,
-		rgb(50 50 50 / 0.2),
-		rgb(50 50 50 / 0.2) 30%,
-		transparent
-	);
 }
 
 .killsyou:active {
 	box-shadow:
 		inset -2px -2px 3px rgb(255 255 255 / 0.6), inset 2px 2px 3px rgb(0 0 0 / 0.6);
-}
-
-fire {
-	background-image: url("/you-died/fire.gif");
 }
