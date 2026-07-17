@@ -39,7 +39,7 @@ death {
 	text-shadow: 1px 1px 1px orange;
 	border-radius: 100px;
 	background-color: black;
-		background-image: linear-gradient(
+	background-image: linear-gradient(
 		to top left,
 		rgb(0 0 0 / 0.2),
 		rgb(0 0 0 / 0.2) 30%,
