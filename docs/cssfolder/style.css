@@ -57,3 +57,36 @@ death {
 	box-shadow:
 		inset -2px -2px 3px rgb(255 255 255 / 0.6), inset 2px 2px 3px rgb(0 0 0 / 0.6);
 }
+
+.doesnt {
+	border: 0;
+	line-height: 9;
+	padding: 0 20px;
+	font-size: 3rem;
+	text-aligh: center;
+	color: green;
+	text-shadow: 1px 1px 1px blue;
+	border-radius: 100px;
+	background-color: white;
+	background-image: linear-gradient(
+		to top left,
+		rgb(0 0 0 / 0.2),
+		rgb(0 0 0 / 0.2) 30%,
+		transparent
+    );
+	box-shadow:
+		inset 2px 2px 3px rgb(255 255 255 / 0.6), inset -2px -2px 3px rgb(0 0 0 / 0.6);
+}
+
+.doesnt:hover {
+	background-color: gray;
+}
+
+.doesnt:active {
+	box-shadow:
+		inset -2px -2px 3px rgb(255 255 255 / 0.6), inset 2px 2px 3px rgb(0 0 0 / 0.6);
+}
+
+.horiz {
+	display: inline-block;
+}
