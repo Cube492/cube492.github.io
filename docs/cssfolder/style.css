@@ -79,7 +79,7 @@ death {
 }
 
 .doesnt:hover {
-	background-color: gray;
+	background-color: rgb(200 200 200);
 }
 
 .doesnt:active {
