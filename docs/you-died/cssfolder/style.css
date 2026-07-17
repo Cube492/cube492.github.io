@@ -19,9 +19,8 @@ styletest {
 }
 
 death {
-	font-family: "Times New Roman"
 	color: red;
-	font-size: 200;
+	font-size: 200px;
 }
 
 .killsyou {
