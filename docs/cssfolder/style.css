@@ -59,6 +59,6 @@ death {
 }
 
 fire {
-	background-image: url("../you-died/fire.gif");
+	background-image: url("/you-died/fire.gif");
 	background-color: #FF0000;
 }
