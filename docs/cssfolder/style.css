@@ -4,14 +4,19 @@ body {
 
 pre {
   color: blue;
-}
-
-h3 {
-  color: orange;
+  font-size = 3rem;
 }
 
 h1 {
   color: purple;
+}
+
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: orange;
 }
 
 styletest {
@@ -31,7 +36,7 @@ death {
 	font-size: 3rem;
 	text-aligh: center;
 	color: red;
-	text-shadow: 1px 1px 1px orange;
+	text-shadow: 1px 1px 3px orange;
 	border-radius: 100px;
 	background-color: black;
 	background-image: linear-gradient(
