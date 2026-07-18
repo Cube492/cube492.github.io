@@ -93,26 +93,26 @@ football {
 	font-size: 20px;
 }
 
-nine {
+.nine {
 	color: rgb(205 35 35);
 	text-align: left;
 	margin-left: 250px;
 }
 
-juice {
+.juice {
 	color: rgb(185 165 0);
 	text-align: left;
 	margin-left: 500px;
 }
 
-ten {
+.ten {
 	color: rgb(20 180 90);
 	text-align: left;
 	margin-left: 0px;
 }
 
-fadedten {
-	color: rgb(4 36 18)
+.fadedten {
+	color: rgb(6 54 27)
 	text-align: left;
 	margin-left: 0px;
 }
