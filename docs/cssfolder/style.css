@@ -90,31 +90,29 @@ death {
 football {
 	background-color: rgb(0 0 0);
 	font-family: "Arial";
-	font-size: 16px;
+	font-size: 20px;
 }
 
 nine {
 	color: rgb(205 35 35);
 	text-align: left;
-	padding-left: 200px;
-	padding-left: 200px;
-	
+	margin-left: 250px;
 }
 
 juice {
-	color: rgb(185 160 0);
+	color: rgb(185 165 0);
 	text-align: left;
-	padding-left: 400px;
+	margin-left: 500px;
 }
 
 ten {
-	color: rgb(10 190 70);
+	color: rgb(20 180 90);
 	text-align: left;
-	padding-left: 0px;
+	margin-left: 0px;
 }
 
 fadedten {
-	color: color-mix(in colorspace rgb(0 0 0) 80, rgb(10 190 70) 20)
+	color: rgb(4 36 18)
 	text-align: left;
-	padding-left: 0px;
+	margin-left: 0px;
 }
