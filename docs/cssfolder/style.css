@@ -86,9 +86,3 @@ death {
 	box-shadow:
 		inset -2px -2px 3px rgb(255 255 255 / 0.6), inset 2px 2px 3px rgb(0 0 0 / 0.6);
 }
-
-.horiz {
-	display: inline-block;
-	padding-right: 30px;
-	padding-left: 30px;
-}
