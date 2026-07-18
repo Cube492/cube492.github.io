@@ -94,7 +94,7 @@ football {
 }
 
 nine {
-	color: rgb(200 25 25);
+	color: rgb(205 35 35);
 	text-align: left;
 	padding-left: 200px;
 	padding-left: 200px;
@@ -102,13 +102,19 @@ nine {
 }
 
 juice {
-	color: rgb(180 140 0);
+	color: rgb(185 160 0);
 	text-align: left;
 	padding-left: 400px;
 }
 
 ten {
-	color: rgb(0 200 50);
+	color: rgb(10 190 70);
+	text-align: left;
+	padding-left: 0px;
+}
+
+fadedten {
+	color: color-mix(in colorspace rgb(0 0 0) 80, rgb(10 190 70) 20)
 	text-align: left;
 	padding-left: 0px;
 }
