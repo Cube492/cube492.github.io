@@ -96,18 +96,19 @@ football {
 nine {
 	color: rgb(200 25 25);
 	text-align: left;
-	text-indent: 200px;
+	padding-left: 200px;
+	padding-left: 200px;
 	
 }
 
 juice {
-	color: rgb(130 120 0);
+	color: rgb(180 140 0);
 	text-align: left;
-	text-indent: 400px;
+	padding-left: 400px;
 }
 
 ten {
 	color: rgb(0 200 50);
 	text-align: left;
-	text-indent: 0px;
+	padding-left: 0px;
 }
