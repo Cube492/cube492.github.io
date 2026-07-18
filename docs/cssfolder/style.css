@@ -90,11 +90,11 @@ death {
 .fun {
 	border: 1;
 	line-height: 1;
-	padding: 0 5px;
+	padding: 5px 5px;
 	font-size: 1rem;
 	text-align: center;
 	color: black;
-	border-radius: 100px;
+	border-radius: 2px;
 	background-color: silver;
 	background-image: linear-gradient(
 		to top left,
