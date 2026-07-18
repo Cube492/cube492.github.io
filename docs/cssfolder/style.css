@@ -90,7 +90,7 @@ death {
 football {
 	background-color: rgb(0 0 0);
 	font-family: "Arial";
-	font-size: 20px;
+	font-size: 22px;
 }
 
 .nine {
@@ -112,7 +112,7 @@ football {
 }
 
 .fadedten {
-	color: rgb(6 54 27)
+	color: rgb(10 90 45)
 	text-align: left;
 	margin-left: 0px;
 }
