@@ -94,25 +94,25 @@ football {
 }
 
 .nine {
-	color: rgb(205 35 35);
+	color: rgb(210 35 35);
 	text-align: left;
 	margin-left: 250px;
 }
 
 .juice {
-	color: rgb(185 165 0);
+	color: rgb(205 180 0);
 	text-align: left;
 	margin-left: 500px;
 }
 
 .ten {
-	color: rgb(20 180 90);
+	color: rgb(20 190 90);
 	text-align: left;
 	margin-left: 0px;
 }
 
 .fadedten {
-	color: rgb(10 90 45)
+	color: rgb(10 95 45)
 	text-align: left;
 	margin-left: 0px;
 }
