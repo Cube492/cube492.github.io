@@ -34,7 +34,7 @@ death {
 	line-height: 9;
 	padding: 0 20px;
 	font-size: 3rem;
-	text-aligh: center;
+	text-align: center;
 	color: red;
 	text-shadow: 1px 1px 1px orange;
 	border-radius: 100px;
@@ -85,4 +85,29 @@ death {
 .doesnt:active {
 	box-shadow:
 		inset -2px -2px 3px rgb(255 255 255 / 0.6), inset 2px 2px 3px rgb(0 0 0 / 0.6);
+}
+
+17776 {
+	background-color: rgb(0 0 0);
+	font-family: "Arial";
+	font-size: 14px;
+}
+
+nine {
+	color: rgb(200 25 25);
+	text-align: left;
+	text-indent: 200px;
+	
+}
+
+juice {
+	color: rgb(130 120 0);
+	text-align: left;
+	text-indent: 400px;
+}
+
+ten {
+	color: rgb(0 200 50);
+	text-align: left;
+	text-indent: 0px;
 }
