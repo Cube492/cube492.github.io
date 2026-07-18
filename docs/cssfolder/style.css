@@ -87,6 +87,34 @@ death {
 		inset -2px -2px 3px rgb(255 255 255 / 0.6), inset 2px 2px 3px rgb(0 0 0 / 0.6);
 }
 
+.fun {
+	border: 1;
+	line-height: 1;
+	padding: 0 5px;
+	font-size: 1rem;
+	text-align: center;
+	color: black;
+	border-radius: 100px;
+	background-color: silver;
+	background-image: linear-gradient(
+		to top left,
+		rgb(0 0 0 / 0.2),
+		rgb(0 0 0 / 0.2) 30%,
+		transparent
+    );
+	box-shadow:
+		inset 2px 2px 3px rgb(255 255 255 / 0.6), inset -2px -2px 3px rgb(0 0 0 / 0.6);
+}
+
+.fun:hover {
+	background-color: gray;
+}
+
+.fun:active {
+	box-shadow:
+		inset -2px -2px 3px rgb(255 255 255 / 0.6), inset 2px 2px 3px rgb(0 0 0 / 0.6);
+}
+
 football {
 	background-color: rgb(0 0 0);
 	font-family: "Arial";
